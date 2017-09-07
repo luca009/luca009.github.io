@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the official LMT Website
 
-You can use the [editor on GitHub](https://github.com/luca009/luca009.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this Website you can view Apps that are going to be developed by us
+and you can view stats about our services!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
