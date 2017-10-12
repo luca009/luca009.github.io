@@ -8,4 +8,4 @@ and you can view stats about our services!
 [LMT Shop](luca009.github.io/shop)
 
 ### Our released Apps
-[Notey](luca009.github.io/notey)
+[Notey](luca009.github.io/Apps/Sites/notey)
