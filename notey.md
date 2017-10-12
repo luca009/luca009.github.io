@@ -2,7 +2,7 @@
 ### Notey
 Notey is a easy to use text editior.
 You can change the font size of your text.
-## [Start the direct download!](luca009.github.io/Notey.exe)
+## [Start the direct download!](Notey.exe)
 
 #### More details
 Last modification: 09/11/17
