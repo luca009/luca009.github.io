@@ -11,3 +11,5 @@ and you can view stats about our services!
 [Notey](luca009.github.io/Apps/Sites/notey)
 
 [Guessing Game](luca009.github.io/Apps/Sites/ggame)
+
+Auch in [Deutsch](/de)
