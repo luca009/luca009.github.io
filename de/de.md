@@ -9,4 +9,6 @@ du kannst Statistiken über unsere Angebote anschauen!
 
 ### Unsere Apps
 
-[Notey](/de/notey)
+[Notey](/de/Apps/notey)
+
+[Ratespiel](/de/Apps/ggame)
