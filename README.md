@@ -12,4 +12,10 @@ and you can view stats about our services!
 
 [Guessing Game](/Apps/Sites/ggame)
 
+[Click forever (Demo)](/Apps/Sites/click_forever)
+
+[HashX](/Apps/Sites/hashx)
+
+[Imaggg](/Apps/Sites/imaggg)
+
 Auch in [Deutsch](/de/de)
