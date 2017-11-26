@@ -16,6 +16,6 @@ and you can view stats about our services (not yet)!
 
 ### Currently in development
 
-[Click forever]()
+[Click forever](/Apps/Sites/previews/click_forever-pre)
 
 Auch in [Deutsch](/de/de)
